@@ -42,13 +42,6 @@ While some developers enjoy living deep in servers and databases, I focus on wha
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osamasandesu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osamasandesu&layout=compact&theme=tokyonight)
-
----
-
 ## Badges
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
